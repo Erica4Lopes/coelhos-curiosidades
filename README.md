@@ -16,7 +16,8 @@ Para clonar, use `git clone https://github.com/Erica4Lopes/coelhos-curiosidades.
 
 2. Abra o arquivo index.html no seu navegador preferido.
 
-Tecnologias usadas
+Tecnologias usadas :
+
 HTML5
 
 CSS3
@@ -29,6 +30,7 @@ index.html — página principal.
 estilo/style.css — arquivo de estilos.
 
 imagens/ — pasta com imagens usadas no site.
+
 
 
 
