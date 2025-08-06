@@ -24,12 +24,14 @@ CSS3
 
 Google Fonts
 
-Estrutura do projeto
+Estrutura do projeto :
+
 index.html — página principal.
 
 estilo/style.css — arquivo de estilos.
 
 imagens/ — pasta com imagens usadas no site.
+
 
 
 
