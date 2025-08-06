@@ -6,7 +6,7 @@
 - Layout leve e acessível.
 - Inclui links úteis para quem quer aprender mais.
 - Design feito com HTML5 e CSS3, usando variáveis CSS e fontes do Google Fonts.
-- Projeto desenvolvido aplicando conhecimentos adquiridos nos Módulos 1 e 2 do curso HTML5 e CSS do Curso em Vídeo.
+- Projeto desenvolvido aplicando conhecimentos adquiridos nos Módulos 1 e 2 do curso HTML5 e CSS3 do Curso em Vídeo.
 
 - ## Como usar
 
@@ -29,5 +29,6 @@ index.html — página principal.
 estilo/style.css — arquivo de estilos.
 
 imagens/ — pasta com imagens usadas no site.
+
 
 
