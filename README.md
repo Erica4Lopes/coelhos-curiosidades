@@ -12,7 +12,7 @@
 
 1. Clone este repositório:
 
-Para clonar, use `git clone https://github.com/seu-usuario/seu-repositorio.git`.
+Para clonar, use `git clone https://github.com/Erica4Lopes/coelhos-curiosidades.git`.
 
 2. Abra o arquivo index.html no seu navegador preferido.
 
@@ -29,4 +29,5 @@ index.html — página principal.
 estilo/style.css — arquivo de estilos.
 
 imagens/ — pasta com imagens usadas no site.
+
 
